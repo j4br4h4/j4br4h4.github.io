@@ -28,7 +28,7 @@ twitter_username: badgercz
 github_username:  j4br4h4
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
